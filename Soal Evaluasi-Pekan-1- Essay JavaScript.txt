@@ -1,0 +1,40 @@
+Soal Evaluasi Essay JavaScript
+
+1. Tipe Data
+Jelaskan perbedaan antara tipe data number, string, dan boolean dalam JavaScript. Berikan contoh untuk masing-masing tipe data tersebut.
+
+2. Variabel
+Apa itu variabel dalam JavaScript? Jelaskan perbedaan antara var, let, dan const beserta contoh penggunaan masing-masing.
+
+3. Operator Aritmatika
+Buatlah kode JavaScript yang melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian dari dua angka yang ditentukan dalam variabel. Jelaskan hasil dari setiap operasi.
+
+4. Operator Penugasan
+Apa yang dimaksud dengan operator penugasan dalam JavaScript? Berikan contoh kode yang menggunakan operator penugasan untuk mengupdate nilai variabel.
+
+5.Operator Logika
+Jelaskan bagaimana operator logika bekerja dalam JavaScript. Berikan contoh penggunaan operator logika AND, OR, dan NOT dalam pernyataan.
+
+6.Pengkondisian (if, else if, else)
+Tulis kode JavaScript menggunakan struktur pengkondisian if, else if, dan else untuk mengecek apakah sebuah angka adalah genap atau ganjil. Jelaskan alur logika yang digunakan.
+
+7.Pengkondisian (switch)
+Buatlah contoh penggunaan pernyataan switch untuk menentukan nama hari berdasarkan nomor hari (1-7). Misalnya, 1 adalah "Senin", 2 adalah "Selasa", dan seterusnya.
+
+8.Perulangan (for)
+Tulis kode JavaScript menggunakan perulangan for untuk mencetak angka dari 1 sampai 10 ke konsol. Jelaskan bagaimana perulangan tersebut bekerja.
+
+9.Operator Perbandingan
+Jelaskan perbedaan antara operator perbandingan == dan === dalam JavaScript. Berikan contoh situasi di mana masing-masing operator dapat memberikan hasil yang berbeda.
+
+10.Kombinasi Tipe Data dan Operator
+Buatlah kode JavaScript yang menggabungkan string dan angka, kemudian jelaskan hasilnya. Apa yang terjadi ketika Anda mencoba menggabungkan tipe data yang berbeda?
+
+cara pengerjaan :
+1. Buat directory evaluasi_pekan_1
+2. Didalam directory , ada file index.html dan evaluasi.js
+3. Jangan lupa import file js nya di dalam file html
+4. Kerjakan evaluasi didalam file evaluasi.js
+5. Berilah komentar oada setiap pertanyaan yang membutuhkan penjelasan
+6. Jika sudah selesai push repository ke github masing masing
+7. Kirim link repositori github japri ke mentornya jika sudah selesai
