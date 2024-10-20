@@ -50,7 +50,7 @@ let nilaiSantri = [50, 90, 65, 67, 89, 80, 50, 97, 84]
 
 
 let reduceArray = myArray.reduce((acc, curr) => acc + curr,0) {
-    let rataRata = nilaiSantri /  myArray.length
+    let rataRata = nilaiSantri /  nilaiSantri.length
 
 }
 console.log(reduceArray);
