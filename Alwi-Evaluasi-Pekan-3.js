@@ -46,7 +46,7 @@ for  (x = 1 ; x < 20; x++ ) {
 // 2. Diketahui nilaiSantri = [ 50, 90, 65, 67, 89, 80, 50, 97, 84 ], maka cari nilai rata- rata dari daftar nilai tersebut.
 
 // code here
-const nilaiSantri = [50, 90, 65, 67, 89, 80, 50, 97, 84]
+let nilaiSantri = [50, 90, 65, 67, 89, 80, 50, 97, 84]
 
 
 let reduceArray = myArray.reduce((acc, curr) => acc + curr,0) {
