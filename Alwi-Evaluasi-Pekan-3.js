@@ -49,11 +49,10 @@ for  (x = 1 ; x < 20; x++ ) {
 let nilaiSantri = [50, 90, 65, 67, 89, 80, 50, 97, 84]
 
 
-let reduceArray = myArray.reduce((acc, curr) => acc + curr,0) {
-    let rataRata = nilaiSantri /  nilaiSantri.length
+let reduceArray = nilaiSantri.reduce((acc, nilaiSantri) => acc + nilaiSantri,0) 
+    let rataRata = reduceArray /  nilaiSantri.length
 
-}
-console.log(reduceArray);
+console.log(rataRata);
 
 
 // 3.Buatlah sebuah fungsi yang menerima dua string sebagai parameter dan menentukan apakah kedua string tersebut adalah anagram.
